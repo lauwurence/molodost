@@ -74,95 +74,97 @@
     },
     {
         "type" : "text",
-        "text" : "Hello"
+        "text" : {
+            "russian" : "Привет!"
+        }
     }
 ],
 
 "posts" : {
 
-"5" :
-{
-    "type" : [ "REPORT", "#eb4034" ],
-    "date" : "January 14, 2026",
-    "author" : "keyclap",
-    "price" : {
-        "russian" : 400,
-        "english" : 10
+    "5" :
+    {
+        "type" : [ "REPORT", "#eb4034" ],
+        "date" : "January 14, 2026",
+        "author" : "keyclap",
+        "price" : {
+            "russian" : 400,
+            "english" : 10
+        },
+        "label" : {
+            "russian" : "Отчёт #18",
+            "english" : "Report #18"
+        },
+        "text" : {
+            "russian" : "Темы: Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
+            "english" : "Topics: Open World, Shaders, Translation of Inscriptions, Fixes, etc."
+        },
+        "image" : "/refs/heads/main/images/005.jpg",
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
+            "english" : "https://patreon.com/posts/148126385"
+        }
     },
-    "label" : {
-        "russian" : "Отчёт #18",
-        "english" : "Report #18"
-    },
-    "text" : {
-        "russian" : "Темы: Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
-        "english" : "Topics: Open World, Shaders, Translation of Inscriptions, Fixes, etc."
-    },
-    "image" : "/refs/heads/main/images/005.jpg",
-    "link" : {
-        "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
-        "english" : "https://patreon.com/posts/148126385"
-    }
-},
 
-"4" :
-{
-    "type" : [ "REPORT", "#eb4034" ],
-    "date" : "December 25, 2025",
-    "author" : "keyclap",
-    "label" : {
-        "russian" : "Отчёт #17",
-        "english" : "Report #17"
+    "4" :
+    {
+        "type" : [ "REPORT", "#eb4034" ],
+        "date" : "December 25, 2025",
+        "author" : "keyclap",
+        "label" : {
+            "russian" : "Отчёт #17",
+            "english" : "Report #17"
+        },
+        "text" : {
+            "russian" : "С наступающими новогодними праздниками, ребята!",
+            "english" : "Merry Christmas and happy upcoming New Year holidays, everyone!"
+        },
+        "image" : "/refs/heads/main/images/006.jpg",
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/246672e3-abe1-4b62-a30e-aa2b25c2f4f9",
+            "english" : "https://patreon.com/posts/146613643"
+        }
     },
-    "text" : {
-        "russian" : "С наступающими новогодними праздниками, ребята!",
-        "english" : "Merry Christmas and happy upcoming New Year holidays, everyone!"
-    },
-    "image" : "/refs/heads/main/images/006.jpg",
-    "link" : {
-        "russian" : "https://boosty.to/keyclap/posts/246672e3-abe1-4b62-a30e-aa2b25c2f4f9",
-        "english" : "https://patreon.com/posts/146613643"
-    }
-},
 
-"3" :
-{
-    "type" : [ "REPORT", "#eb4034" ],
-    "date" : "July 17, 2025",
-    "author" : "keyclap",
-    "label" : {
-        "russian" : "Отчёт #16",
-        "english" : "Report #16"
+    "3" :
+    {
+        "type" : [ "REPORT", "#eb4034" ],
+        "date" : "July 17, 2025",
+        "author" : "keyclap",
+        "label" : {
+            "russian" : "Отчёт #16",
+            "english" : "Report #16"
+        },
+        "text" : {
+            "russian" : "Темы: Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
+            "english" : "Topics: Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
+        },
+        "image" : "/refs/heads/main/images/007.jpg",
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/af5a68c4-a63d-4956-b0d4-ae2b3b74d781",
+            "english" : "https://patreon.com/posts/134357476"
+        }
     },
-    "text" : {
-        "russian" : "Темы: Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
-        "english" : "Topics: Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
-    },
-    "image" : "/refs/heads/main/images/007.jpg",
-    "link" : {
-        "russian" : "https://boosty.to/keyclap/posts/af5a68c4-a63d-4956-b0d4-ae2b3b74d781",
-        "english" : "https://patreon.com/posts/134357476"
-    }
-},
 
-"2" :
-{
-    "type" : [ "RELEASE", "#eb4034" ],
-    "date" : "July 30, 2025",
-    "author" : "keyclap",
-    "label" : {
-        "russian" : "OBD v0.2.0",
-        "english" : "OBD v0.2.0"
-    },
-    "text" : {
-        "russian" : "Давно мы не виделись.",
-        "english" : "Long time no see."
-    },
-    "image" : "/refs/heads/main/images/004.jpg",
-    "link" : {
-        "russian" : "https://boosty.to/keyclap",
-        "english" : "https://www.patreon.com/keyclap"
+    "2" :
+    {
+        "type" : [ "RELEASE", "#eb4034" ],
+        "date" : "July 30, 2025",
+        "author" : "keyclap",
+        "label" : {
+            "russian" : "OBD v0.2.0",
+            "english" : "OBD v0.2.0"
+        },
+        "text" : {
+            "russian" : "Давно мы не виделись.",
+            "english" : "Long time no see."
+        },
+        "image" : "/refs/heads/main/images/004.jpg",
+        "link" : {
+            "russian" : "https://boosty.to/keyclap",
+            "english" : "https://www.patreon.com/keyclap"
+        }
     }
-}
 
 }
 
