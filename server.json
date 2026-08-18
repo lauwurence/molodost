@@ -67,35 +67,39 @@
     }
 ],
 
-"development" : [
-    {
-        "type" : "text",
-        "text" : {
-            "russian" : "Текущий статус: создание контента"
+"development" : {
+    "ratio" : 0.5,
+
+    "blocks" : [
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Текущий статус: создание контента"
+            },
+            "xalign" : 0.5,
+            "dsize" : 8,
+            "bold" : true
         },
-        "xalign" : 0.5,
-        "dsize" : 8,
-        "bold" : true
-    },
-    {
-        "type" : "text",
-        "text" : {
-            "russian" : "Над следующей версией работают:\n1. LaUwUrence"
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Над следующей версией работают:\n1. LaUwUrence"
+            },
+            "xalign" : 0.5
         },
-        "xalign" : 0.5
-    },
-    {
-        "type" : "text",
-        "text" : {
-            "russian" : "Изображения:"
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Изображения:"
+            },
+            "xalign" : 0.5
         },
-        "xalign" : 0.5
-    },
-    {
-        "type" : "image",
-        "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
-    }
-],
+        {
+            "type" : "image",
+            "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
+        }
+    ]
+},
 
 "posts" : {
 
