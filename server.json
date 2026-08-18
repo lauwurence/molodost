@@ -3,6 +3,7 @@
 
 "dlcs" : [
     {
+        "uid" : "GaSf3FaslS1s3",
         "label" : {
             "russian" : "Высокое разрешение"
         },
@@ -15,6 +16,7 @@
         }
     },
     {
+        "uid" : "test",
         "label" : {
             "russian" : "Виски и сосиски"
         },
