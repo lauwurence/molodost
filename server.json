@@ -1,10 +1,9 @@
 {
 "id" : 5,
-"release_timestamp" : 1768687798,
 "images" : [
-    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/006.jpg",
-    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/005.jpg",
-    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/004.jpg"
+    "/refs/heads/main/images/006.jpg",
+    "/refs/heads/main/images/005.jpg",
+    "/refs/heads/main/images/004.jpg"
 ],
 "posts" : {
 
@@ -21,7 +20,7 @@
         "russian" : "Темы: Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
         "english" : "Topics: Open World, Shaders, Translation of Inscriptions, Fixes, etc."
     },
-    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/005.jpg",
+    "image" : "/refs/heads/main/images/005.jpg",
     "link" : {
         "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
         "english" : "https://patreon.com/posts/148126385"
@@ -41,7 +40,7 @@
         "russian" : "С наступающими новогодними праздниками, ребята!",
         "english" : "Merry Christmas and happy upcoming New Year holidays, everyone!"
     },
-    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/006.jpg",
+    "image" : "/refs/heads/main/images/006.jpg",
     "link" : {
         "russian" : "https://boosty.to/keyclap/posts/246672e3-abe1-4b62-a30e-aa2b25c2f4f9",
         "english" : "https://patreon.com/posts/146613643"
@@ -61,7 +60,7 @@
         "russian" : "Темы: Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
         "english" : "Topics: Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
     },
-    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/007.jpg",
+    "image" : "/refs/heads/main/images/007.jpg",
     "link" : {
         "russian" : "https://boosty.to/keyclap/posts/af5a68c4-a63d-4956-b0d4-ae2b3b74d781",
         "english" : "https://patreon.com/posts/134357476"
@@ -81,7 +80,7 @@
         "russian" : "Давно мы не виделись.",
         "english" : "Long time no see."
     },
-    "image" : "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/004.jpg",
+    "image" : "/refs/heads/main/images/004.jpg",
     "link" : {
         "russian" : "https://boosty.to/keyclap",
         "english" : "https://www.patreon.com/keyclap"
