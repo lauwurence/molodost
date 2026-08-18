@@ -172,10 +172,11 @@
             "type" : "null",
             "height" : 50
         },
+
         {
             "type" : "text",
             "text" : {
-                "russian" : "Текущий статус: создание контента"
+                "russian" : "Готовность контента:"
             },
             "xalign" : 0.5,
             "bold" : true
@@ -184,6 +185,20 @@
             "type" : "bar",
             "value" : 0.75
         },
+
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Готовность кода:"
+            },
+            "xalign" : 0.5,
+            "bold" : true
+        },
+        {
+            "type" : "bar",
+            "value" : 0.75
+        },
+
         {
             "type" : "null",
             "height" : 50
