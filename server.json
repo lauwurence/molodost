@@ -159,11 +159,6 @@
 
     "blocks" : [
         {
-            "type" : "null",
-            "height" : 50
-        },
-
-        {
             "type" : "text",
             "text" : {
                 "russian" : "Текущий статус: создание контента"
