@@ -86,6 +86,10 @@
     "type" : [ "REPORT", "#eb4034" ],
     "date" : "January 14, 2026",
     "author" : "keyclap",
+    "price" : {
+        "russian" : 400,
+        "english" : 10
+    },
     "label" : {
         "russian" : "Отчёт #18",
         "english" : "Report #18"
