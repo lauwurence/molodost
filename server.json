@@ -158,19 +158,10 @@
 "development" : {
 
     "blocks" : [
-        {
-            "type" : "text",
-            "text" : {
-                "russian" : "Здесь можно отследить прогресс разработки версии 0.2.3"
-            },
-            "xalign" : 0.5,
-            "dsize" : 8,
-            "bold" : true
-        },
 
         {
             "type" : "null",
-            "height" : 20
+            "height" : 200
         },
 
         {
@@ -183,7 +174,7 @@
         },
         {
             "type" : "bar",
-            "value" : 0.75
+            "value" : 0.4
         },
 
         {
@@ -196,7 +187,20 @@
         },
         {
             "type" : "bar",
-            "value" : 0.75
+            "value" : 0.8
+        },
+
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Полировка:"
+            },
+            "xalign" : 0.5,
+            "bold" : true
+        },
+        {
+            "type" : "bar",
+            "value" : 0.2
         },
 
         {
