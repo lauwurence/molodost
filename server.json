@@ -4,6 +4,8 @@
 "dlcs" : [
     {
         "uid" : "GaSf3FaslS1s3",
+        "version" : "0.2.2",
+        "author" : "keyclap",
         "label" : {
             "russian" : "Высокое разрешение"
         },
@@ -17,6 +19,8 @@
     },
     {
         "uid" : "test",
+        "version" : "0.1",
+        "author" : "keyclap",
         "label" : {
             "russian" : "Виски и сосиски"
         },
