@@ -2,13 +2,14 @@
 "id" : 5,
 "images" : [
     "/refs/heads/main/images/ps00_first_work_24_006.jpg",
-    "/refs/heads/main/images/ps00_first_work_18_106.jpg",
     "/refs/heads/main/images/ps00_first_work_24_154.jpg",
     "/refs/heads/main/images/sc_005.jpg",
     "/refs/heads/main/images/sc_004.jpg",
     "/refs/heads/main/images/sc_001.jpg",
     "/refs/heads/main/images/sc_002.jpg",
-    "/refs/heads/main/images/sc_003.jpg"
+    "/refs/heads/main/images/sc_003.jpg",
+    "/refs/heads/main/images/sc_006.jpg",
+    "/refs/heads/main/images/sc_008.jpg"
 ],
 "posts" : {
 
