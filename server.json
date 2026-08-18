@@ -67,43 +67,6 @@
     }
 ],
 
-"development" : {
-
-    "blocks" : [
-        {
-            "type" : "bar",
-            "value" : 0.75
-        },
-        {
-            "type" : "text",
-            "text" : {
-                "russian" : "Текущий статус: создание контента"
-            },
-            "xalign" : 0.5,
-            "dsize" : 8,
-            "bold" : true
-        },
-        {
-            "type" : "text",
-            "text" : {
-                "russian" : "Над следующей версией работают:\n1. LaUwUrence"
-            },
-            "xalign" : 0.5
-        },
-        {
-            "type" : "text",
-            "text" : {
-                "russian" : "Изображения:"
-            },
-            "xalign" : 0.5
-        },
-        {
-            "type" : "image",
-            "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
-        }
-    ]
-},
-
 "posts" : {
 
     "5" :
@@ -189,6 +152,55 @@
             "english" : "https://www.patreon.com/keyclap"
         }
     }
+
+},
+
+"development" : {
+
+    "blocks" : [
+        {
+            "type" : "null",
+            "height" : 50
+        },
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Текущий статус: создание контента"
+            },
+            "xalign" : 0.5,
+            "dsize" : 8,
+            "bold" : true
+        },
+        {
+            "type" : "bar",
+            "value" : 0.75
+        },
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Над обновлением работают:\n1. LaUwUrence"
+            },
+            "xalign" : 0.5
+        },
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Над обновлением работают:\n1. LaUwUrence"
+            },
+            "xalign" : 0.5
+        },
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Изображения:"
+            },
+            "xalign" : 0.5
+        },
+        {
+            "type" : "image",
+            "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
+        }
+    ]
 
 }
 
