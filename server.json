@@ -7,6 +7,10 @@
         "version" : "0.2.4",
         "date" : "Aug 18, 2026",
         "author" : "keyclap",
+        "price" : {
+            "russian" : 200,
+            "english" : 5
+        },
         "label" : {
             "russian" : "Высокое разрешение"
         },
@@ -23,6 +27,10 @@
         "version" : "0.1",
         "date" : "Aug 18, 2026",
         "author" : "keyclap",
+        "price" : {
+            "russian" : 200,
+            "english" : 5
+        },
         "label" : {
             "russian" : "Виски и сосиски"
         },
