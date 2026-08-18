@@ -1,8 +1,10 @@
 {
 "id" : 5,
 "release_timestamp" : 1768687798,
-"dev_images" : [
-    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/006.jpg"
+"images" : [
+    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/006.jpg",
+    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/005.jpg",
+    "https://raw.githubusercontent.com/lauwurence/ourbrightdays/refs/heads/main/images/004.jpg"
 ],
 "posts" : {
 
