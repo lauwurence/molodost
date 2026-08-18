@@ -8,18 +8,21 @@
         "date" : "Aug 18, 2026",
         "author" : "keyclap",
         "price" : {
-            "russian" : 200,
-            "english" : 5
+            "russian" : 400,
+            "english" : 10
         },
         "label" : {
-            "russian" : "Высокое разрешение"
+            "russian" : "Высокое разрешение",
+            "english" : "Hight Resolution"
         },
         "text" : {
-            "russian" : "Высокое разрешение изображений и анимаций для 3840x2160 мониторов."
+            "russian" : "Высокое разрешение изображений и анимаций для 3840x2160 мониторов.",
+            "english" : "High resolution images and movies for 3840x2160 displays."
         },
         "image" : "/refs/heads/main/images/005.jpg",
         "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb"
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
+            "english" : "https://patreon.com/posts/148126385"
         }
     },
     {
@@ -32,14 +35,17 @@
             "english" : 5
         },
         "label" : {
-            "russian" : "Виски и сосиски"
+            "russian" : "Виски и сосиски",
+            "english" : "Whiskey and Sausages"
         },
         "text" : {
-            "russian" : "Сюжетное дополнение с Ксенией и висками с сосисками."
+            "russian" : "Сюжетное дополнение с Ксенией и висками с сосисками.",
+            "english" : "Plot addition with Ksenia and whiskey and sausages."
         },
         "image" : "/refs/heads/main/images/ps00_first_work_12_012.jpg",
         "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb"
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
+            "english" : "https://patreon.com/posts/148126385"
         }
     }
 ],
