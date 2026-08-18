@@ -69,14 +69,17 @@
 
 "development" : [
     {
-        "type" : "image",
-        "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
-    },
-    {
         "type" : "text",
         "text" : {
-            "russian" : "Привет!"
-        }
+            "russian" : "Над "
+        },
+        "xalign" : 0.5,
+        "dsize" : 4,
+        "bold" : true
+    },
+    {
+        "type" : "image",
+        "image" : "/refs/heads/main/images/ps00_first_work_24_006.jpg"
     }
 ],
 
