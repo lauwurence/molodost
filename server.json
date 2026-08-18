@@ -71,11 +71,25 @@
     {
         "type" : "text",
         "text" : {
-            "russian" : "Над "
+            "russian" : "Текущий статус: создание контента"
         },
         "xalign" : 0.5,
-        "dsize" : 4,
+        "dsize" : 8,
         "bold" : true
+    },
+    {
+        "type" : "text",
+        "text" : {
+            "russian" : "Над следующей версией работают:\n1. LaUwUrence"
+        },
+        "xalign" : 0.5
+    },
+    {
+        "type" : "text",
+        "text" : {
+            "russian" : "Изображения:"
+        },
+        "xalign" : 0.5
     },
     {
         "type" : "image",
