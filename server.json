@@ -31,21 +31,18 @@
         "date" : "Aug 18, 2026",
         "author" : "keyclap",
         "price" : {
-            "russian" : 200,
-            "english" : 5
+            "russian" : 400,
+            "english" : 10
         },
         "label" : {
-            "russian" : "Виски и сосиски",
-            "english" : "Whiskey and Sausages"
+            "russian" : "Лаунчер и локальная ИИ модель"
         },
         "text" : {
-            "russian" : "Сюжетное дополнение с Ксенией и висками с сосисками.",
-            "english" : "Plot addition with Ksenia and whiskey and sausages."
+            "russian" : "Лаунчер для запуска моделей без сторонних программ и fine-tuned ИИ модель, специально подготовленная для игры."
         },
         "image" : "/refs/heads/main/images/ps00_first_work_12_012.jpg",
         "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
-            "english" : "https://patreon.com/posts/148126385"
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb"
         }
     }
 ],
