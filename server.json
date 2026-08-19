@@ -81,6 +81,7 @@
 
     "5" :
     {
+        "developer" : true,
         "label" : {
             "russian" : "Отчёт #18",
             "english" : "Report #18"
