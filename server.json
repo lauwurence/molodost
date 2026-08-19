@@ -1,6 +1,6 @@
 {
-"id" : 5,
 
+"dlcs_id" : 0,
 "dlcs" : [
     {
         "uid" : "GaSf3FaslS1s3",
@@ -67,6 +67,7 @@
     }
 ],
 
+"posts_id" : 0,
 "posts" : {
 
     "5" :
@@ -155,6 +156,7 @@
 
 },
 
+"development_id" : 0,
 "development" : {
 
     "blocks" : [
