@@ -161,7 +161,7 @@
 
         {
             "type" : "null",
-            "height" : 200
+            "height" : 250
         },
 
         {
@@ -201,20 +201,8 @@
         {
             "type" : "bar",
             "value" : 0.2
-        },
-
-        {
-            "type" : "null",
-            "height" : 20
-        },
-
-        {
-            "type" : "text",
-            "text" : {
-                "russian" : "Над обновлением работают:\n1. LaUwUrence"
-            },
-            "xalign" : 0.5
         }
+
     ],
 
     "images" : [
