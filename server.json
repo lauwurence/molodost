@@ -5,8 +5,11 @@
     {
         "uid" : "GaSf3FaslS1s3",
         "version" : "0.2.4",
-        "date" : "Aug 18, 2026",
         "author" : "keyclap",
+        "date" : {
+            "russian" : "18 августа 2026",
+            "english" : "Aug 18, 2026"
+        },
         "price" : {
             "russian" : 400,
             "english" : 10
@@ -28,8 +31,11 @@
     {
         "uid" : "HAwaHasew3as2",
         "version" : "0.1",
-        "date" : "Aug 18, 2026",
         "author" : "keyclap",
+        "date" : {
+            "russian" : "18 августа 2026",
+            "english" : "Aug 18, 2026"
+        },
         "price" : {
             "russian" : 400,
             "english" : 10
@@ -48,8 +54,11 @@
     {
         "uid" : "GawAGHAH25Sfa",
         "version" : "0.1",
-        "date" : "Aug 18, 2026",
         "author" : "keyclap",
+        "date" : {
+            "russian" : "18 августа 2026",
+            "english" : "Aug 18, 2026"
+        },
         "price" : {
             "russian" : 400,
             "english" : 10
