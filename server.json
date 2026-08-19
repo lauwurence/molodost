@@ -159,10 +159,7 @@
 
     "blocks" : [
 
-        {
-            "type" : "null",
-            "height" : 200
-        },
+        { "type" : "null", "height" : 200 },
 
         {
             "type" : "text",
@@ -177,10 +174,7 @@
             "value" : 0.4
         },
 
-        {
-            "type" : "null",
-            "height" : 10
-        },
+        { "type" : "null", "height" : 10 },
 
         {
             "type" : "text",
@@ -195,10 +189,7 @@
             "value" : 0.8
         },
 
-        {
-            "type" : "null",
-            "height" : 10
-        },
+        { "type" : "null", "height" : 10 },
 
         {
             "type" : "text",
