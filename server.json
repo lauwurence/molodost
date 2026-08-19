@@ -178,6 +178,11 @@
         },
 
         {
+            "type" : "null",
+            "height" : 10
+        },
+
+        {
             "type" : "text",
             "text" : {
                 "russian" : "Готовность кода:"
@@ -188,6 +193,11 @@
         {
             "type" : "bar",
             "value" : 0.8
+        },
+
+        {
+            "type" : "null",
+            "height" : 10
         },
 
         {
