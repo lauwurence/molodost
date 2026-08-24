@@ -1,9 +1,9 @@
 {
 
 "subscription" : {
-    "BGA" : 2,
-    "BFG" : 4,
-    "EAG" : 8
+    "BGA" : "190",
+    "BFG" : "c8",
+    "EAG" : "320"
 },
 
 "dlcs_id" : 0,
