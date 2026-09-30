@@ -31,54 +31,8 @@
         },
         "image" : "/refs/heads/main/images/005.jpg",
         "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
-            "english" : "https://patreon.com/posts/148126385"
-        }
-    },
-    {
-        "uid" : "HAwaHasew3as2",
-        "version" : "0.1",
-        "author" : "keyclap",
-        "date" : {
-            "russian" : "18 августа 2026",
-            "english" : "Aug 18, 2026"
-        },
-        "price" : {
-            "russian" : 400,
-            "english" : 10
-        },
-        "label" : {
-            "russian" : "Сосиски и барбариски"
-        },
-        "text" : {
-            "russian" : "Сюжетное дополнение про Марию."
-        },
-        "image" : "/refs/heads/main/images/ps00_first_work_24_031.jpg",
-        "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb"
-        }
-    },
-    {
-        "uid" : "GawAGHAH25Sfa",
-        "version" : "0.1",
-        "author" : "keyclap",
-        "date" : {
-            "russian" : "18 августа 2026",
-            "english" : "Aug 18, 2026"
-        },
-        "price" : {
-            "russian" : 400,
-            "english" : 10
-        },
-        "label" : {
-            "russian" : "Лаунчер и локальная ИИ модель"
-        },
-        "text" : {
-            "russian" : "Лаунчер для запуска моделей без сторонних программ и fine-tuned ИИ модель, специально подготовленная для игры."
-        },
-        "image" : "/refs/heads/main/images/ps00_first_work_12_012.jpg",
-        "link" : {
-            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb"
+            "russian" : "https://boosty.to/keyclap",
+            "english" : "https://patreon.com/keyclap"
         }
     }
 ],
@@ -194,7 +148,7 @@
         },
         {
             "type" : "bar",
-            "value" : 0.4
+            "value" : 0.0
         },
 
         { "type" : "null", "height" : 10 },
@@ -209,7 +163,7 @@
         },
         {
             "type" : "bar",
-            "value" : 0.8
+            "value" : 0.0
         },
 
         { "type" : "null", "height" : 10 },
@@ -224,7 +178,7 @@
         },
         {
             "type" : "bar",
-            "value" : 0.2
+            "value" : 0.0
         }
 
     ],
