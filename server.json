@@ -42,7 +42,6 @@
 
     "8" :
     {
-        "developer" : true,
         "label" : {
             "russian" : "Отчёт #21 - Огромный прогресс 🪩",
             "english" : "Report #21 - Huge Progress 🪩"
@@ -65,7 +64,6 @@
 
     "7" :
     {
-        "developer" : true,
         "label" : {
             "russian" : "Отчёт #20",
             "english" : "Report #20"
@@ -88,7 +86,6 @@
 
     "6" :
     {
-        "developer" : true,
         "label" : {
             "russian" : "Отчёт #19",
             "english" : "Report #19"
@@ -111,7 +108,6 @@
 
     "5" :
     {
-        "developer" : true,
         "label" : {
             "russian" : "Отчёт #18",
             "english" : "Report #18"
