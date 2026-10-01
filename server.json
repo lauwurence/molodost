@@ -40,6 +40,75 @@
 "news_id" : 2,
 "news" : {
 
+    "8" :
+    {
+        "developer" : true,
+        "label" : {
+            "russian" : "Отчёт #21 - Огромный прогресс 🪩",
+            "english" : "Report #21 - Huge Progress 🪩"
+        },
+        "text" : {
+            "russian" : "панорама, kPanorama, kConverter, радиальное меню, анимации, Fresco, изображения, аудио, поддержка ИИ моделей, keyclap connect, Spark Build, первое пополнение в команде, исправления...",
+            "english" : "Panoramas, kPanorama, kConverter, Radial Menu, Animations, Fresco, Images, Audio, AI model support, keyclap connect, Spark Build, the first addition to the team, invisible improvements and fixes..."
+        },
+        "image" : "/refs/heads/main/images/005.jpg",
+        "author" : "keyclap",
+        "date" : {
+            "russian" : "28 сентабря 2026",
+            "english" : "September 28, 2026"
+        },
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/2b4adb68-e35d-4bf9-b2e9-c1e5f02af301",
+            "english" : "https://patreon.com/keyclap/posts/170744639"
+        }
+    },
+
+    "7" :
+    {
+        "developer" : true,
+        "label" : {
+            "russian" : "Отчёт #20",
+            "english" : "Report #20"
+        },
+        "text" : {
+            "russian" : "Темы: коллекции, шейдеры, музыкальный плеер, открытый мир...",
+            "english" : "Topics: Collection, Shaders, Music Player, Open World..."
+        },
+        "image" : "/refs/heads/main/images/005.jpg",
+        "author" : "keyclap",
+        "date" : {
+            "russian" : "29 апреля 2026",
+            "english" : "April 29, 2026"
+        },
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
+            "english" : "https://patreon.com/posts/148126385"
+        }
+    },
+
+    "6" :
+    {
+        "developer" : true,
+        "label" : {
+            "russian" : "Отчёт #19",
+            "english" : "Report #19"
+        },
+        "text" : {
+            "russian" : "Темы: открытый мир, заметки, инвентарь, отношения, контент...",
+            "english" : "Topics: Open World, Notes, Inventory, Relationships, Content..."
+        },
+        "image" : "/refs/heads/main/images/005.jpg",
+        "author" : "keyclap",
+        "date" : {
+            "russian" : "15 февраля 2026",
+            "english" : "February 15, 2026"
+        },
+        "link" : {
+            "russian" : "https://boosty.to/keyclap/posts/5ac18198-0164-4a41-a735-22da81fca2cb",
+            "english" : "https://patreon.com/posts/148126385"
+        }
+    },
+
     "5" :
     {
         "developer" : true,
