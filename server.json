@@ -14,8 +14,8 @@
         "version" : "0.2.3",
         "author" : "keyclap",
         "date" : {
-            "russian" : "18 августа 2026",
-            "english" : "Aug 18, 2026"
+            "russian" : "7 сентября 2026",
+            "english" : "September 7, 2026"
         },
         "price" : {
             "russian" : 400,
@@ -53,7 +53,7 @@
         "image" : "/refs/heads/main/images/rep_21.webp",
         "author" : "keyclap",
         "date" : {
-            "russian" : "28 сентабря 2026",
+            "russian" : "28 сентября 2026",
             "english" : "September 28, 2026"
         },
         "link" : {
