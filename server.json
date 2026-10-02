@@ -11,7 +11,7 @@
 "dlcs" : [
     {
         "uid" : "GaSf3FaslS1s3",
-        "version" : "0.2.4",
+        "version" : "0.2.3",
         "author" : "keyclap",
         "date" : {
             "russian" : "18 августа 2026",
@@ -27,9 +27,9 @@
         },
         "text" : {
             "russian" : "Высокое разрешение изображений и анимаций для 3840x2160 мониторов.\n❗Данная модификация не подходит для игры на телефонах❗",
-            "english" : "High resolution images and movies for 3840x2160 displays."
+            "english" : "High resolution images and movies for 3840x2160 displays.\n❗This modification is not suitable for mobile devices❗"
         },
-        "image" : "/refs/heads/main/images/005.jpg",
+        "image" : "/refs/heads/main/images/dlc_4k.webp",
         "link" : {
             "russian" : "https://boosty.to/keyclap",
             "english" : "https://patreon.com/keyclap"
