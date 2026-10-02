@@ -47,7 +47,7 @@
             "english" : "Report #21 - Huge Progress 🪩"
         },
         "text" : {
-            "russian" : "панорама, kPanorama, kConverter, радиальное меню, анимации, Fresco, изображения, аудио, поддержка ИИ моделей, keyclap connect, Spark Build, первое пополнение в команде, исправления...",
+            "russian" : "Панорама, kPanorama, kConverter, радиальное меню, анимации, Fresco, изображения, аудио, поддержка ИИ моделей, keyclap connect, Spark Build, первое пополнение в команде, исправления...",
             "english" : "Panoramas, kPanorama, kConverter, Radial Menu, Animations, Fresco, Images, Audio, AI model support, keyclap connect, Spark Build, the first addition to the team, invisible improvements and fixes..."
         },
         "image" : "/refs/heads/main/images/rep_21.webp",
@@ -69,8 +69,8 @@
             "english" : "Report #20"
         },
         "text" : {
-            "russian" : "Темы: коллекции, шейдеры, музыкальный плеер, открытый мир...",
-            "english" : "Topics: Collection, Shaders, Music Player, Open World..."
+            "russian" : "Коллекции, шейдеры, музыкальный плеер, открытый мир...",
+            "english" : "Collection, Shaders, Music Player, Open World..."
         },
         "image" : "/refs/heads/main/images/rep_20.webp",
         "author" : "keyclap",
@@ -91,8 +91,8 @@
             "english" : "Report #19"
         },
         "text" : {
-            "russian" : "Темы: открытый мир, заметки, инвентарь, отношения, контент...",
-            "english" : "Topics: Open World, Notes, Inventory, Relationships, Content..."
+            "russian" : "Открытый мир, заметки, инвентарь, отношения, контент...",
+            "english" : "Open World, Notes, Inventory, Relationships, Content..."
         },
         "image" : "/refs/heads/main/images/rep_19.webp",
         "author" : "keyclap",
@@ -113,8 +113,8 @@
             "english" : "Report #18"
         },
         "text" : {
-            "russian" : "Темы: Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
-            "english" : "Topics: Open World, Shaders, Translation of Inscriptions, Fixes, etc."
+            "russian" : "Открытый мир, шейдеры, перевод надписей, исправления и т.д.",
+            "english" : "Open World, Shaders, Translation of Inscriptions, Fixes, etc."
         },
         "image" : "/refs/heads/main/images/rep_18.webp",
         "author" : "keyclap",
@@ -157,8 +157,8 @@
             "english" : "Report #16"
         },
         "text" : {
-            "russian" : "Темы: Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
-            "english" : "Topics: Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
+            "russian" : "Анимации и захват движения, симуляция тела, одежды, волос, подготовка персонажей, панорама, проблема мосек.",
+            "english" : "Animations and MoCap, Body Simulation, Clothes Simulation, Hair Sumulation, Character Preparation, Panorama, Facial Expressions Problem."
         },
         "image" : "/refs/heads/main/images/rep_16.webp",
         "author" : "keyclap",
