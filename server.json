@@ -206,7 +206,8 @@
         {
             "type" : "text",
             "text" : {
-                "russian" : "Готовность контента:"
+                "russian" : "Готовность контента:",
+                "english" : "Content:"
             },
             "xalign" : 0.5,
             "bold" : true
@@ -221,7 +222,8 @@
         {
             "type" : "text",
             "text" : {
-                "russian" : "Готовность кода:"
+                "russian" : "Готовность кода:",
+                "english" : "Code:"
             },
             "xalign" : 0.5,
             "bold" : true
@@ -236,7 +238,8 @@
         {
             "type" : "text",
             "text" : {
-                "russian" : "Полировка:"
+                "russian" : "Полировка:",
+                "english" : "Polish:"
             },
             "xalign" : 0.5,
             "bold" : true
