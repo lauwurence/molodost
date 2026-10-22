@@ -1,5 +1,9 @@
 {
 
+"contacts" : {
+    "SITE" : "keyclap.com"
+},
+
 "holiday" : null,
 "colors" : {
     "F5G" : "30d40",
