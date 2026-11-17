@@ -228,12 +228,12 @@
                 "russian" : "Готовность кода:",
                 "english" : "Code:"
             },
-            "xalign" : 0.25,
+            "xalign" : 0.5,
             "bold" : true
         },
         {
             "type" : "bar",
-            "value" : 0.5
+            "value" : 0.25
         },
 
         { "type" : "null", "height" : 10 },
@@ -250,7 +250,20 @@
         {
             "type" : "bar",
             "value" : 0.0
-        }
+        },
+
+        { "type" : "null", "height" : 100 }
+
+        {
+            "type" : "text",
+            "text" : {
+                "russian" : "Дата следующего обновления пока не установлена.",
+                "english" : "The next update date has not yet been set."
+            },
+            "xalign" : 0.5,
+            "bold" : true
+        },
+
 
     ],
 
