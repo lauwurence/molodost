@@ -217,7 +217,7 @@
         },
         {
             "type" : "bar",
-            "value" : 0.0
+            "value" : 0.1
         },
 
         { "type" : "null", "height" : 10 },
@@ -228,12 +228,12 @@
                 "russian" : "Готовность кода:",
                 "english" : "Code:"
             },
-            "xalign" : 0.5,
+            "xalign" : 0.25,
             "bold" : true
         },
         {
             "type" : "bar",
-            "value" : 0.0
+            "value" : 0.5
         },
 
         { "type" : "null", "height" : 10 },
