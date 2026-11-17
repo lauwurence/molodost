@@ -252,7 +252,7 @@
             "value" : 0.0
         },
 
-        { "type" : "null", "height" : 100 }
+        { "type" : "null", "height" : 100 },
 
         {
             "type" : "text",
